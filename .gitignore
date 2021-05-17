@@ -1,0 +1,7 @@
+venv/
+.vscode
+.idea
+
+redditdownloader.config
+urls.txt
+log.log

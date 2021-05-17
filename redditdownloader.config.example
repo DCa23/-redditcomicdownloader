@@ -1,0 +1,19 @@
+#Creds reddit
+userr:
+cidr:#apikey
+csecr:#apisecret
+passwordr:
+uagentr:PYTHON
+
+#Creds imgur
+useri:
+passwordi:
+cidi:#apikey
+cseci:#apikey
+
+#Generalparameters
+default_output_path:
+path_sueltas:#Independent images
+limit:1000
+subreddit_name:#subreddit to download 
+agrupacion:6
